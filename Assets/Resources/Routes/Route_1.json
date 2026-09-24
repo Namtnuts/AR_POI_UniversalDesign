@@ -1,0 +1,2454 @@
+{
+    "routeId": 1,
+    "routeName": "Trasa 1: BP Czaniec -> Pajda Kebab",
+    "originLat": 49.85980987548828,
+    "originLon": 19.228805541992189,
+    "waypoints": [
+        {
+            "lat": 49.85983657836914,
+            "lon": 19.22917938232422
+        },
+        {
+            "lat": 49.86008834838867,
+            "lon": 19.229219436645509
+        },
+        {
+            "lat": 49.860469818115237,
+            "lon": 19.229230880737306
+        },
+        {
+            "lat": 49.86051940917969,
+            "lon": 19.2290096282959
+        },
+        {
+            "lat": 49.860538482666019,
+            "lon": 19.2283992767334
+        },
+        {
+            "lat": 49.86082077026367,
+            "lon": 19.22831916809082
+        },
+        {
+            "lat": 49.861488342285159,
+            "lon": 19.228130340576173
+        },
+        {
+            "lat": 49.862388610839847,
+            "lon": 19.22787094116211
+        },
+        {
+            "lat": 49.86330032348633,
+            "lon": 19.22764015197754
+        },
+        {
+            "lat": 49.86442184448242,
+            "lon": 19.227319717407228
+        },
+        {
+            "lat": 49.86520004272461,
+            "lon": 19.22709083557129
+        },
+        {
+            "lat": 49.86642074584961,
+            "lon": 19.226770401000978
+        },
+        {
+            "lat": 49.866798400878909,
+            "lon": 19.226709365844728
+        },
+        {
+            "lat": 49.86690139770508,
+            "lon": 19.22677993774414
+        },
+        {
+            "lat": 49.86697006225586,
+            "lon": 19.22673988342285
+        },
+        {
+            "lat": 49.867008209228519,
+            "lon": 19.22665023803711
+        },
+        {
+            "lat": 49.867130279541019,
+            "lon": 19.22658920288086
+        },
+        {
+            "lat": 49.867488861083987,
+            "lon": 19.226470947265626
+        },
+        {
+            "lat": 49.868141174316409,
+            "lon": 19.226289749145509
+        },
+        {
+            "lat": 49.86880874633789,
+            "lon": 19.226089477539064
+        },
+        {
+            "lat": 49.86954879760742,
+            "lon": 19.225919723510743
+        },
+        {
+            "lat": 49.87010955810547,
+            "lon": 19.225759506225587
+        },
+        {
+            "lat": 49.87083053588867,
+            "lon": 19.22553062438965
+        },
+        {
+            "lat": 49.87160873413086,
+            "lon": 19.225309371948243
+        },
+        {
+            "lat": 49.87245178222656,
+            "lon": 19.225080490112306
+        },
+        {
+            "lat": 49.8734016418457,
+            "lon": 19.224809646606447
+        },
+        {
+            "lat": 49.87424850463867,
+            "lon": 19.224590301513673
+        },
+        {
+            "lat": 49.87480163574219,
+            "lon": 19.22443962097168
+        },
+        {
+            "lat": 49.87556838989258,
+            "lon": 19.22422981262207
+        },
+        {
+            "lat": 49.876338958740237,
+            "lon": 19.22402000427246
+        },
+        {
+            "lat": 49.87710189819336,
+            "lon": 19.22381019592285
+        },
+        {
+            "lat": 49.87773895263672,
+            "lon": 19.223630905151368
+        },
+        {
+            "lat": 49.87847137451172,
+            "lon": 19.223430633544923
+        },
+        {
+            "lat": 49.87942886352539,
+            "lon": 19.223180770874025
+        },
+        {
+            "lat": 49.88002014160156,
+            "lon": 19.22300910949707
+        },
+        {
+            "lat": 49.880470275878909,
+            "lon": 19.222869873046876
+        },
+        {
+            "lat": 49.88066864013672,
+            "lon": 19.222820281982423
+        },
+        {
+            "lat": 49.88069152832031,
+            "lon": 19.22307014465332
+        },
+        {
+            "lat": 49.88077926635742,
+            "lon": 19.223859786987306
+        },
+        {
+            "lat": 49.88087844848633,
+            "lon": 19.224760055541993
+        },
+        {
+            "lat": 49.880950927734378,
+            "lon": 19.225339889526368
+        },
+        {
+            "lat": 49.881080627441409,
+            "lon": 19.22650909423828
+        },
+        {
+            "lat": 49.88124084472656,
+            "lon": 19.22732925415039
+        },
+        {
+            "lat": 49.88142013549805,
+            "lon": 19.227909088134767
+        },
+        {
+            "lat": 49.881690979003909,
+            "lon": 19.228530883789064
+        },
+        {
+            "lat": 49.88185119628906,
+            "lon": 19.228839874267579
+        },
+        {
+            "lat": 49.8820915222168,
+            "lon": 19.229129791259767
+        },
+        {
+            "lat": 49.88233184814453,
+            "lon": 19.2293701171875
+        },
+        {
+            "lat": 49.88254165649414,
+            "lon": 19.229509353637697
+        },
+        {
+            "lat": 49.88285827636719,
+            "lon": 19.229639053344728
+        },
+        {
+            "lat": 49.88335037231445,
+            "lon": 19.22974967956543
+        },
+        {
+            "lat": 49.88370895385742,
+            "lon": 19.229780197143556
+        },
+        {
+            "lat": 49.883750915527347,
+            "lon": 19.22987937927246
+        },
+        {
+            "lat": 49.88376998901367,
+            "lon": 19.229930877685548
+        },
+        {
+            "lat": 49.88372039794922,
+            "lon": 19.230260848999025
+        },
+        {
+            "lat": 49.88370132446289,
+            "lon": 19.23055076599121
+        },
+        {
+            "lat": 49.883628845214847,
+            "lon": 19.230979919433595
+        },
+        {
+            "lat": 49.883548736572269,
+            "lon": 19.231029510498048
+        },
+        {
+            "lat": 49.88349914550781,
+            "lon": 19.230989456176759
+        },
+        {
+            "lat": 49.88346862792969,
+            "lon": 19.230920791625978
+        },
+        {
+            "lat": 49.88346481323242,
+            "lon": 19.230812072753908
+        }
+    ],
+    "pois": [
+        {
+            "placeId": "ChIJTb3oMKmbFkcR7UoSxQO6uPE",
+            "placeName": "Czaniec",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8503103,
+            "longitude": 19.2451988,
+            "localX": 1176.4384765625,
+            "localZ": -1050.0831298828125
+        },
+        {
+            "placeId": "ChIJUYQh8MqbFkcRyxbpDU6tjVY",
+            "placeName": "Czaniec Osteria",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.858717,
+            "longitude": 19.22873999999999,
+            "localX": -4.703526496887207,
+            "localZ": -120.80645751953125
+        },
+        {
+            "placeId": "ChIJM5BLyw2bFkcRx2FDfvGGoAo",
+            "placeName": "Salon materacy HILDING - Meble Koala",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.858977,
+            "longitude": 19.229351,
+            "localX": 39.144004821777347,
+            "localZ": -92.06605529785156
+        },
+        {
+            "placeId": "ChIJ0VkTgPGbFkcRpN7FRIPl94A",
+            "placeName": "Meble Dwornik",
+            "category": "Inne",
+            "rating": 4.699999809265137,
+            "latitude": 49.85900460000001,
+            "longitude": 19.22853899999999,
+            "localX": -19.128000259399415,
+            "localZ": -89.01515197753906
+        },
+        {
+            "placeId": "ChIJm9hIw8qbFkcR8i-UAm6t7DY",
+            "placeName": "Osteria - Czaniec Kuchnia Polsko Włoska",
+            "category": "Inne",
+            "rating": 4.599999904632568,
+            "latitude": 49.8595861,
+            "longitude": 19.2293095,
+            "localX": 36.16581726074219,
+            "localZ": -24.736143112182618
+        },
+        {
+            "placeId": "ChIJ90ID3MqbFkcRWqDXZ07gP2c",
+            "placeName": "Czaniec Osteria",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.859682,
+            "longitude": 19.228817,
+            "localX": 0.8222673535346985,
+            "localZ": -14.135356903076172
+        },
+        {
+            "placeId": "ChIJD9nJtrdIc0ER_bkGRGn4uuY",
+            "placeName": "Sago-Styl",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.85969129999999,
+            "longitude": 19.2282844,
+            "localX": -37.39900207519531,
+            "localZ": -13.10733413696289
+        },
+        {
+            "placeId": "ChIJRfZkwaubFkcR55PwJfILR-s",
+            "placeName": "Wild Bean Cafe",
+            "category": "Gastro",
+            "rating": 4.0,
+            "latitude": 49.8597712,
+            "longitude": 19.2293091,
+            "localX": 36.13711166381836,
+            "localZ": -4.275188446044922
+        },
+        {
+            "placeId": "ChIJT1L82sqbFkcRK6CjWYSERSw",
+            "placeName": "Bp",
+            "category": "Stacja",
+            "rating": 4.099999904632568,
+            "latitude": 49.8598412,
+            "longitude": 19.2290583,
+            "localX": 18.138813018798829,
+            "localZ": 3.462611436843872
+        },
+        {
+            "placeId": "ChIJN8gltnWbFkcRMmMRbBkLYxw",
+            "placeName": "DHL POP Punkt Obsługi Paczek",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8602692,
+            "longitude": 19.22817179999999,
+            "localX": -45.479576110839847,
+            "localZ": 50.77373123168945
+        },
+        {
+            "placeId": "ChIJLwk-5dmbFkcRxcY-1bpncKM",
+            "placeName": "DPD Pickup",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.86028719999999,
+            "longitude": 19.2281661,
+            "localX": -45.88862991333008,
+            "localZ": 52.763450622558597
+        },
+        {
+            "placeId": "ChIJcWxlpOCbFkcRalPSaByFVL8",
+            "placeName": "Żabka Osteria - sklep spożywczy Czaniec",
+            "category": "Sklep",
+            "rating": 4.400000095367432,
+            "latitude": 49.8603092,
+            "longitude": 19.2282655,
+            "localX": -38.755332946777347,
+            "localZ": 55.19533157348633
+        },
+        {
+            "placeId": "ChIJJ3lMhGebFkcR4wjJihUu3SM",
+            "placeName": "Myjnia samochodowa",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8603394,
+            "longitude": 19.2294813,
+            "localX": 48.49479675292969,
+            "localZ": 58.53363800048828
+        },
+        {
+            "placeId": "ChIJNwTUMsubFkcR4lVU630PVQs",
+            "placeName": "Parking TIR",
+            "category": "Parking",
+            "rating": 4.400000095367432,
+            "latitude": 49.8603703,
+            "longitude": 19.2290275,
+            "localX": 15.928495407104493,
+            "localZ": 61.94932556152344
+        },
+        {
+            "placeId": "ChIJz5hB1TSaFkcRF5TKxXaPo3s",
+            "placeName": "Castol-Serẃis",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8607642,
+            "longitude": 19.2289611,
+            "localX": 11.163395881652832,
+            "localZ": 105.49102783203125
+        },
+        {
+            "placeId": "ChIJtW971TSaFkcRPt0ZX5xLaCc",
+            "placeName": "Autokompleks",
+            "category": "Inne",
+            "rating": 4.300000190734863,
+            "latitude": 49.86079830000001,
+            "longitude": 19.2287982,
+            "localX": -0.5268874764442444,
+            "localZ": 109.26044464111328
+        },
+        {
+            "placeId": "ChIJt2971TSaFkcRr-OE3i1Civ4",
+            "placeName": "Petrokompleks",
+            "category": "Stacja",
+            "rating": 3.5,
+            "latitude": 49.8608059,
+            "longitude": 19.2290551,
+            "localX": 17.909170150756837,
+            "localZ": 110.10054779052735
+        },
+        {
+            "placeId": "ChIJ68L3sdGbFkcRCX_DvDQxr_I",
+            "placeName": "Automat paczkowy DPD Pickup",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8608059,
+            "longitude": 19.229055,
+            "localX": 17.901992797851564,
+            "localZ": 110.10054779052735
+        },
+        {
+            "placeId": "ChIJfRqdy4ubFkcRF2qU_cGfn_8",
+            "placeName": "ftz transport",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8637009,
+            "longitude": 19.2270203,
+            "localX": -128.1153106689453,
+            "localZ": 430.1138610839844
+        },
+        {
+            "placeId": "ChIJS30GiDSaFkcRcTEBWXzIvfk",
+            "placeName": "Centrum BHP \"Felicitas\"",
+            "category": "Inne",
+            "rating": 4.300000190734863,
+            "latitude": 49.86377220000001,
+            "longitude": 19.2277725,
+            "localX": -74.134765625,
+            "localZ": 437.995361328125
+        },
+        {
+            "placeId": "ChIJC1F4QYefFkcRmPmNVAdNdVI",
+            "placeName": "F.U.H. Spaw-Mar S.C. M. Rosner, D. Rosner",
+            "category": "Inne",
+            "rating": 3.700000047683716,
+            "latitude": 49.86380699999999,
+            "longitude": 19.2277766,
+            "localX": -73.84053802490235,
+            "localZ": 441.8421325683594
+        },
+        {
+            "placeId": "ChIJfdVhhjOaFkcR-KGrMTj4weE",
+            "placeName": "Paweł Hankus Serwis ogumienia",
+            "category": "Inne",
+            "rating": 4.800000190734863,
+            "latitude": 49.8639761,
+            "longitude": 19.2267546,
+            "localX": -147.18289184570313,
+            "localZ": 460.5344543457031
+        },
+        {
+            "placeId": "ChIJfdVhhjOaFkcR97os6wpNX7k",
+            "placeName": "JET-SERWIS s.c",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8641622,
+            "longitude": 19.2271136,
+            "localX": -121.41976928710938,
+            "localZ": 481.10595703125
+        },
+        {
+            "placeId": "ChIJfSOEPQCbFkcRCzucX42g04M",
+            "placeName": "Aleja-Tech",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8644733,
+            "longitude": 19.2280775,
+            "localX": -52.24687957763672,
+            "localZ": 515.4949340820313
+        },
+        {
+            "placeId": "ChIJRbEBijOaFkcR6PSh969_3Ao",
+            "placeName": "Felicitas A-C",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.86455549999999,
+            "longitude": 19.2277621,
+            "localX": -74.881103515625,
+            "localZ": 524.5813598632813
+        },
+        {
+            "placeId": "ChIJiwP39E6bFkcRPFhLmJKrPjw",
+            "placeName": "NORD - Autoryzowany Dealer Samochodów z Norwegii",
+            "category": "Inne",
+            "rating": 4.900000095367432,
+            "latitude": 49.8646384,
+            "longitude": 19.2268783,
+            "localX": -138.3057403564453,
+            "localZ": 533.7451171875
+        },
+        {
+            "placeId": "ChIJh76THU6bFkcRB-I3VMDCTAQ",
+            "placeName": "Tłumacz Przysięgły polsko-ukraiński",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8646487,
+            "longitude": 19.2268719,
+            "localX": -138.7650146484375,
+            "localZ": 534.8836669921875
+        },
+        {
+            "placeId": "ChIJETUsOo4bUWoRiwCaYuDnK6U",
+            "placeName": "NORD Serwis",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8646487,
+            "longitude": 19.2268719,
+            "localX": -138.7650146484375,
+            "localZ": 534.8836669921875
+        },
+        {
+            "placeId": "ChIJw7XMoOubFkcRnOS-X8BRAtw",
+            "placeName": "Bruk-Bet Kęty",
+            "category": "Inne",
+            "rating": 4.900000095367432,
+            "latitude": 49.8647274,
+            "longitude": 19.2285067,
+            "localX": -21.44596290588379,
+            "localZ": 543.5831298828125
+        },
+        {
+            "placeId": "ChIJYd-qCjSaFkcRNm5KMr-BKx4",
+            "placeName": "MTD Duraj Roman",
+            "category": "Inne",
+            "rating": 4.800000190734863,
+            "latitude": 49.86484429999999,
+            "longitude": 19.2279997,
+            "localX": -57.83008575439453,
+            "localZ": 556.5053100585938
+        },
+        {
+            "placeId": "ChIJuRMV-zOaFkcREmnDYiee1Ac",
+            "placeName": "Grupa Kęty S.A. Freight entry",
+            "category": "Inne",
+            "rating": 4.099999904632568,
+            "latitude": 49.86580900000001,
+            "longitude": 19.2277831,
+            "localX": -73.37406921386719,
+            "localZ": 663.1432495117188
+        },
+        {
+            "placeId": "ChIJN4Ts3zOaFkcRHRxxPFrlNNc",
+            "placeName": "Kęty Grupa Kęty",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.866294,
+            "longitude": 19.226917,
+            "localX": -135.5284881591797,
+            "localZ": 716.755126953125
+        },
+        {
+            "placeId": "ChIJdwPkfjGaFkcR6nfjszoIAyE",
+            "placeName": "Kęty Zml",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.86679400000001,
+            "longitude": 19.225681,
+            "localX": -224.22824096679688,
+            "localZ": 772.025146484375
+        },
+        {
+            "placeId": "ChIJ91QDdDGaFkcRjcjwgvf84SI",
+            "placeName": "Kęty Grupa Kęty",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.86747399999999,
+            "longitude": 19.226315,
+            "localX": -178.7301483154297,
+            "localZ": 847.1923217773438
+        },
+        {
+            "placeId": "ChIJC9wJdjGaFkcRFc9YZZ0hM54",
+            "placeName": "Ren Nova. PHU. Dowhaniuk R.",
+            "category": "Inne",
+            "rating": 3.0,
+            "latitude": 49.8675079,
+            "longitude": 19.2259667,
+            "localX": -203.7253875732422,
+            "localZ": 850.9396362304688
+        },
+        {
+            "placeId": "ChIJaZ8razCaFkcRAGQ0vUBX1uU",
+            "placeName": "Grupa Kęty S.A.",
+            "category": "Inne",
+            "rating": 3.299999952316284,
+            "latitude": 49.8675378,
+            "longitude": 19.2269486,
+            "localX": -133.26075744628907,
+            "localZ": 854.2447509765625
+        },
+        {
+            "placeId": "ChIJJRyNBvaXFkcRyNdLR65xcgE",
+            "placeName": "Spawmarsc",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8676237,
+            "longitude": 19.2269794,
+            "localX": -131.05044555664063,
+            "localZ": 863.7401733398438
+        },
+        {
+            "placeId": "ChIJu2HjmTGaFkcR42B9T5TvXLM",
+            "placeName": "🧸 Przedszkole z Oddziałami Integracyjnymi i Żłobek Norlandia Kęty",
+            "category": "Inne",
+            "rating": 4.699999809265137,
+            "latitude": 49.86781500000001,
+            "longitude": 19.2259701,
+            "localX": -203.4813995361328,
+            "localZ": 884.886474609375
+        },
+        {
+            "placeId": "ChIJkTU7WjCaFkcR80VY4dfbtgQ",
+            "placeName": "Bankomat",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8680069,
+            "longitude": 19.2269886,
+            "localX": -130.3902130126953,
+            "localZ": 906.0990600585938
+        },
+        {
+            "placeId": "ChIJPbGDoTGaFkcRGsUcMY3Q1TQ",
+            "placeName": "Primo sp.j. Hurtownia art. instalacyjnych",
+            "category": "Inne",
+            "rating": 4.800000190734863,
+            "latitude": 49.868027,
+            "longitude": 19.2259759,
+            "localX": -203.06517028808595,
+            "localZ": 908.3209228515625
+        },
+        {
+            "placeId": "ChIJRRf3wf-bFkcRIMIVDnUYA-I",
+            "placeName": "Defibrylator AED",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8687677,
+            "longitude": 19.2268062,
+            "localX": -143.47988891601563,
+            "localZ": 990.1979370117188
+        },
+        {
+            "placeId": "ChIJJRyNBvaXFkcRt2LEzkkH-e0",
+            "placeName": "Okna Pcv",
+            "category": "Inne",
+            "rating": 4.0,
+            "latitude": 49.8689972,
+            "longitude": 19.2261831,
+            "localX": -188.1957550048828,
+            "localZ": 1015.5668334960938
+        },
+        {
+            "placeId": "ChIJ6ZonTACbFkcRCRu6UWEWADY",
+            "placeName": "Tadeusza Kościuszki 114e, 32-650 Kęty, Polska",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8691365,
+            "longitude": 19.2245599,
+            "localX": -304.682373046875,
+            "localZ": 1030.965087890625
+        },
+        {
+            "placeId": "ChIJFw1P7v-bFkcRYodPpz5ZN04",
+            "placeName": "WEAR ARE YOU - ubrania na każdą porę roku i kieszeń",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8695882,
+            "longitude": 19.2257055,
+            "localX": -222.47003173828126,
+            "localZ": 1080.89599609375
+        },
+        {
+            "placeId": "ChIJZf7zLMabFkcR5TEkpeNXGWU",
+            "placeName": "Hydraulik eco-ciepełko | Pompy ciepła | Kotły gazowe | Ogrzewanie podłogowe | Instalacje wod-kan | Rekuperacja |",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.869624,
+            "longitude": 19.2256999,
+            "localX": -222.8719024658203,
+            "localZ": 1084.853271484375
+        },
+        {
+            "placeId": "ChIJVdKP1SOaFkcRnGoDVXDJf8c",
+            "placeName": "ROBOT Sklep AGD",
+            "category": "Sklep",
+            "rating": 4.400000095367432,
+            "latitude": 49.8697796,
+            "longitude": 19.224831,
+            "localX": -285.2272644042969,
+            "localZ": 1102.0533447265625
+        },
+        {
+            "placeId": "ChIJ8_Hf-syZFkcRFtZqKSLcGjY",
+            "placeName": "Rapidthink Mariusz Pyka",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.86978779999999,
+            "longitude": 19.2262013,
+            "localX": -186.88966369628907,
+            "localZ": 1102.959716796875
+        },
+        {
+            "placeId": "ChIJPezVTd6bFkcRNyXWYBKw1ZQ",
+            "placeName": "Apteka HYGIEIA",
+            "category": "Apteka",
+            "rating": 4.099999904632568,
+            "latitude": 49.8698411,
+            "longitude": 19.2252283,
+            "localX": -256.7156066894531,
+            "localZ": 1108.8515625
+        },
+        {
+            "placeId": "ChIJ4TVEOTCaFkcRz2OzeuaBi50",
+            "placeName": "Centrum Zakupowe \"JAN\" Kęty",
+            "category": "Inne",
+            "rating": 4.400000095367432,
+            "latitude": 49.86991870000001,
+            "longitude": 19.2248189,
+            "localX": -286.0956115722656,
+            "localZ": 1117.429443359375
+        },
+        {
+            "placeId": "ChIJVX-GCpybFkcRDZB0LUD3_Z0",
+            "placeName": "Euronet. Bankomat. Wpłatomat",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.87001679999999,
+            "longitude": 19.2251474,
+            "localX": -262.5212707519531,
+            "localZ": 1128.2734375
+        },
+        {
+            "placeId": "ChIJSdQlG7uXFkcRtv9WAC0N6YE",
+            "placeName": "Fit King",
+            "category": "Inne",
+            "rating": 3.700000047683716,
+            "latitude": 49.8701886,
+            "longitude": 19.2246089,
+            "localX": -301.16595458984377,
+            "localZ": 1147.26416015625
+        },
+        {
+            "placeId": "ChIJFSPeIOibFkcRo4Yztg1vlH4",
+            "placeName": "Fajerwerki C.Z \"JAN\" Kęty",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8702475,
+            "longitude": 19.2243117,
+            "localX": -322.49407958984377,
+            "localZ": 1153.7750244140625
+        },
+        {
+            "placeId": "ChIJtXvnegCbFkcRHny58OJPqlg",
+            "placeName": "Złoty Kłos | Piekarnia i Cukiernia",
+            "category": "Gastro",
+            "rating": 5.0,
+            "latitude": 49.8702665,
+            "longitude": 19.2243703,
+            "localX": -318.2887268066406,
+            "localZ": 1155.875244140625
+        },
+        {
+            "placeId": "ChIJ-f2ahf6bFkcRa5PmEGEBbDc",
+            "placeName": "DPD Pickup",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8702665,
+            "longitude": 19.2243703,
+            "localX": -318.2887268066406,
+            "localZ": 1155.875244140625
+        },
+        {
+            "placeId": "ChIJA9seA7SbFkcRlWPfHzm8DFo",
+            "placeName": "Klub Fitness iFitt Kęty",
+            "category": "Sport",
+            "rating": 4.900000095367432,
+            "latitude": 49.8702665,
+            "longitude": 19.2243703,
+            "localX": -318.2887268066406,
+            "localZ": 1155.875244140625
+        },
+        {
+            "placeId": "ChIJo9XZQFebFkcRv_qsHcJA3zo",
+            "placeName": "UPS Access Point",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8703252,
+            "longitude": 19.2245045,
+            "localX": -308.6580505371094,
+            "localZ": 1162.364013671875
+        },
+        {
+            "placeId": "ChIJx399olKbFkcR47IG_x1zo-Q",
+            "placeName": "F.H.U. SPEC-DAN Daniel Pierzecki",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8703252,
+            "longitude": 19.2245044,
+            "localX": -308.66522216796877,
+            "localZ": 1162.364013671875
+        },
+        {
+            "placeId": "ChIJ9xpB_EebFkcRB4YiuBmyjsU",
+            "placeName": "Wakacje.pl Kęty",
+            "category": "Inne",
+            "rating": 4.900000095367432,
+            "latitude": 49.8703252,
+            "longitude": 19.2245044,
+            "localX": -308.66522216796877,
+            "localZ": 1162.364013671875
+        },
+        {
+            "placeId": "ChIJtTqgy5CbFkcRw0BkxWrX93g",
+            "placeName": "Piekarnia Porąbka",
+            "category": "Gastro",
+            "rating": 5.0,
+            "latitude": 49.870328,
+            "longitude": 19.2243834,
+            "localX": -317.3486328125,
+            "localZ": 1162.6734619140625
+        },
+        {
+            "placeId": "ChIJV_BLUzCaFkcRjEsZ8bEv80A",
+            "placeName": "Jagsta • Ściany Mobilne, Przesuwne, Działowe, Ścianki Ruchome",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8703541,
+            "longitude": 19.2267105,
+            "localX": -150.34765625,
+            "localZ": 1165.55859375
+        },
+        {
+            "placeId": "ChIJT-9SPjCaFkcR4Pza2Ke01HQ",
+            "placeName": "Kęty Zam",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.87041299999999,
+            "longitude": 19.22572,
+            "localX": -221.42945861816407,
+            "localZ": 1172.0693359375
+        },
+        {
+            "placeId": "ChIJuyuFRzCaFkcRScPNEDAXYvk",
+            "placeName": "Bankomat Bank Pekao",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8706508,
+            "longitude": 19.2261629,
+            "localX": -189.6453857421875,
+            "localZ": 1198.3558349609375
+        },
+        {
+            "placeId": "ChIJ17otVCWaFkcRkF5jN5DFnMo",
+            "placeName": "AK- Moda Sukienki Garnitury",
+            "category": "Inne",
+            "rating": 4.5,
+            "latitude": 49.872139,
+            "longitude": 19.224411,
+            "localX": -315.3679504394531,
+            "localZ": 1362.8614501953125
+        },
+        {
+            "placeId": "ChIJH58djiGaFkcRiPsjYrik8jQ",
+            "placeName": "Foto Media Centrum",
+            "category": "Inne",
+            "rating": 4.400000095367432,
+            "latitude": 49.87214,
+            "longitude": 19.224454,
+            "localX": -312.2821044921875,
+            "localZ": 1362.971923828125
+        },
+        {
+            "placeId": "ChIJ8y_n_525uSYRfBmuVa7MQ80",
+            "placeName": "ArtAs | Pracownia Krawiecka",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.87216900000001,
+            "longitude": 19.2245804,
+            "localX": -303.2112121582031,
+            "localZ": 1366.1776123046875
+        },
+        {
+            "placeId": "ChIJVV8bLCeaFkcRgwgY7i0-hoY",
+            "placeName": "MakeUpMania",
+            "category": "Inne",
+            "rating": 3.799999952316284,
+            "latitude": 49.87216900000001,
+            "longitude": 19.2245804,
+            "localX": -303.2112121582031,
+            "localZ": 1366.1776123046875
+        },
+        {
+            "placeId": "ChIJzTi60Pk9HUcRLS67uIHBKPM",
+            "placeName": "Miejsce parkowania",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8721788,
+            "longitude": 19.2236746,
+            "localX": -368.2146301269531,
+            "localZ": 1367.2608642578125
+        },
+        {
+            "placeId": "ChIJl9g0tf-bFkcR_VaPf3jstYk",
+            "placeName": "MAREMA",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.872193,
+            "longitude": 19.2242262,
+            "localX": -328.6298522949219,
+            "localZ": 1368.83056640625
+        },
+        {
+            "placeId": "ChIJuVecUSWaFkcR4KYr3mtcJ80",
+            "placeName": "Topopony. Premio autoryzowany serwis opon",
+            "category": "Inne",
+            "rating": 4.0,
+            "latitude": 49.8724876,
+            "longitude": 19.2247353,
+            "localX": -292.09503173828127,
+            "localZ": 1401.3956298828125
+        },
+        {
+            "placeId": "ChIJvWEyHyWaFkcRtcszQ30rI_k",
+            "placeName": "Ogrodnictwo Sylwia Kierpiec",
+            "category": "Inne",
+            "rating": 4.900000095367432,
+            "latitude": 49.8730209,
+            "longitude": 19.224417,
+            "localX": -314.9373779296875,
+            "localZ": 1460.3466796875
+        },
+        {
+            "placeId": "ChIJF34odxGbFkcRnUNc0iLr0NM",
+            "placeName": "Tłumacz przysięgły języka niemieckiego Marcin Łysek",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8731312,
+            "longitude": 19.2252597,
+            "localX": -254.46221923828126,
+            "localZ": 1472.5391845703125
+        },
+        {
+            "placeId": "ChIJQ8o7uIGbFkcRMmaOVmh3Ig4",
+            "placeName": "montaz ogrodzenia",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8733359,
+            "longitude": 19.22287,
+            "localX": -425.9555969238281,
+            "localZ": 1495.166748046875
+        },
+        {
+            "placeId": "ChIJSUPftFibFkcR1L08xBzd5dE",
+            "placeName": "MeblometPlus Cięcie i oklejanie płyt meblowych",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8735177,
+            "longitude": 19.22419,
+            "localX": -331.2276916503906,
+            "localZ": 1515.262939453125
+        },
+        {
+            "placeId": "ChIJWSNRgGKbFkcRDI9pIfGfp0I",
+            "placeName": "JozTom \"SZLIF\"",
+            "category": "Inne",
+            "rating": 4.599999904632568,
+            "latitude": 49.87363999999999,
+            "longitude": 19.22393,
+            "localX": -349.88623046875,
+            "localZ": 1528.781982421875
+        },
+        {
+            "placeId": "ChIJwaHePSWaFkcRIAQwLkluB3U",
+            "placeName": "Meblomet akcesoria meblowe",
+            "category": "Inne",
+            "rating": 4.699999809265137,
+            "latitude": 49.8736983,
+            "longitude": 19.224523,
+            "localX": -307.3304443359375,
+            "localZ": 1535.2264404296875
+        },
+        {
+            "placeId": "ChIJAVar4iSaFkcRZw17LeSCb6c",
+            "placeName": "Stomatolgia lek. Żaneta Hatala",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.87446569999999,
+            "longitude": 19.2241937,
+            "localX": -330.962158203125,
+            "localZ": 1620.0548095703125
+        },
+        {
+            "placeId": "ChIJefMWTFiXFkcRWCTVQ5AdsyY",
+            "placeName": "Reklamova · Reklama dla firm · Drukarnia",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.87446569999999,
+            "longitude": 19.2241937,
+            "localX": -330.962158203125,
+            "localZ": 1620.0548095703125
+        },
+        {
+            "placeId": "ChIJkRBpHCWaFkcRvDDiPyyPnUw",
+            "placeName": "Diagnostyka. Laboratoria Medyczne.",
+            "category": "Inne",
+            "rating": 4.400000095367432,
+            "latitude": 49.87446569999999,
+            "longitude": 19.2241937,
+            "localX": -330.962158203125,
+            "localZ": 1620.0548095703125
+        },
+        {
+            "placeId": "ChIJW0QQDJabFkcRqJ5GSgDQfto",
+            "placeName": "TanieBanery.com.pl",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.87446569999999,
+            "longitude": 19.2241937,
+            "localX": -330.962158203125,
+            "localZ": 1620.0548095703125
+        },
+        {
+            "placeId": "ChIJ66sjMuU7oEURcYNxsYSX6DU",
+            "placeName": "mgr Sławomir Grajny Psychoterapia",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.87446569999999,
+            "longitude": 19.2241937,
+            "localX": -330.962158203125,
+            "localZ": 1620.0548095703125
+        },
+        {
+            "placeId": "ChIJXzfAr_7pFkcRl8dqz7rHFR0",
+            "placeName": "DOGIKARMY",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.87446569999999,
+            "longitude": 19.2241937,
+            "localX": -330.962158203125,
+            "localZ": 1620.0548095703125
+        },
+        {
+            "placeId": "ChIJ__IXSeGbFkcRk1DkiLkf3bg",
+            "placeName": "Complaio Sp. z o. o.",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.87446569999999,
+            "longitude": 19.2241937,
+            "localX": -330.962158203125,
+            "localZ": 1620.0548095703125
+        },
+        {
+            "placeId": "ChIJ233pg_ebFkcRsfhqMlBRu5M",
+            "placeName": "DogiDigi – wyjątkowe akcesoria dla psów",
+            "category": "Inne",
+            "rating": 4.400000095367432,
+            "latitude": 49.87446569999999,
+            "longitude": 19.2241937,
+            "localX": -330.962158203125,
+            "localZ": 1620.0548095703125
+        },
+        {
+            "placeId": "ChIJt3eiBDCaFkcR3Xr5-j3fR0E",
+            "placeName": "Dentysta Żaneta Hatala",
+            "category": "Inne",
+            "rating": 4.0,
+            "latitude": 49.87446569999999,
+            "longitude": 19.2241937,
+            "localX": -330.962158203125,
+            "localZ": 1620.0548095703125
+        },
+        {
+            "placeId": "ChIJyduyHSWaFkcRxGfQ1uWo4xE",
+            "placeName": "Asign Internet",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.87451909999999,
+            "longitude": 19.2242561,
+            "localX": -326.484130859375,
+            "localZ": 1625.9576416015625
+        },
+        {
+            "placeId": "ChIJow8qBCmbFkcR0RgezLMIMpY",
+            "placeName": "Żabka | Prosto z pieca",
+            "category": "Sklep",
+            "rating": 3.9000000953674318,
+            "latitude": 49.87470539999999,
+            "longitude": 19.2237476,
+            "localX": -362.97589111328127,
+            "localZ": 1646.55126953125
+        },
+        {
+            "placeId": "ChIJKdp0PQCbFkcR1Nk_hJOXs9A",
+            "placeName": "Gabinet Zielona Odnowa",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.87470539999999,
+            "longitude": 19.2237476,
+            "localX": -362.97589111328127,
+            "localZ": 1646.55126953125
+        },
+        {
+            "placeId": "ChIJk5z9f-2bFkcR-n-igN0VPrQ",
+            "placeName": "DPD Pickup",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.87470539999999,
+            "longitude": 19.2237476,
+            "localX": -362.97589111328127,
+            "localZ": 1646.55126953125
+        },
+        {
+            "placeId": "ChIJ83Za4iSaFkcRhIo2supRjcc",
+            "placeName": "Profitnet.pl",
+            "category": "Inne",
+            "rating": 2.299999952316284,
+            "latitude": 49.87472140000001,
+            "longitude": 19.2238839,
+            "localX": -353.19451904296877,
+            "localZ": 1648.3199462890625
+        },
+        {
+            "placeId": "ChIJyduyHSWaFkcRDAYPS3BIUyY",
+            "placeName": "Pralnia dywanów",
+            "category": "Inne",
+            "rating": 4.0,
+            "latitude": 49.87472140000001,
+            "longitude": 19.2238839,
+            "localX": -353.19451904296877,
+            "localZ": 1648.3199462890625
+        },
+        {
+            "placeId": "ChIJVVVVVSGaFkcR96SfR-j1R1E",
+            "placeName": "Irys s.c. Gabryś J.R.",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8747968,
+            "longitude": 19.2230117,
+            "localX": -415.78668212890627,
+            "localZ": 1656.6546630859375
+        },
+        {
+            "placeId": "ChIJZZHBNwCbFkcRxfa9-2pDx2o",
+            "placeName": "Myjnia samoobsługowa",
+            "category": "Inne",
+            "rating": 2.299999952316284,
+            "latitude": 49.8749426,
+            "longitude": 19.2245457,
+            "localX": -305.701416015625,
+            "localZ": 1672.7713623046875
+        },
+        {
+            "placeId": "ChIJaUzo0SWaFkcRLO9bMrsNJoA",
+            "placeName": "Osiedle kard. Stefana Wyszyńskiego",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8751913,
+            "longitude": 19.219941,
+            "localX": -636.1510620117188,
+            "localZ": 1700.2626953125
+        },
+        {
+            "placeId": "ChIJi9VQnY6bFkcRM44h4qPLuMs",
+            "placeName": "Parking",
+            "category": "Parking",
+            "rating": 2.0,
+            "latitude": 49.8757719,
+            "longitude": 19.2225568,
+            "localX": -448.43194580078127,
+            "localZ": 1764.442138671875
+        },
+        {
+            "placeId": "ChIJzdDY8iSaFkcRUJBmRCNSd04",
+            "placeName": "Januszyk. Autohandel",
+            "category": "Inne",
+            "rating": 3.0,
+            "latitude": 49.87579599999999,
+            "longitude": 19.224644,
+            "localX": -298.64703369140627,
+            "localZ": 1767.106201171875
+        },
+        {
+            "placeId": "ChIJbzCfUASbFkcRgnQqvUIHzws",
+            "placeName": "Diamond Kebab",
+            "category": "Gastro",
+            "rating": 4.300000190734863,
+            "latitude": 49.8758576,
+            "longitude": 19.2221961,
+            "localX": -474.3170471191406,
+            "localZ": 1773.91552734375
+        },
+        {
+            "placeId": "ChIJH7Pv9SSaFkcREpYLAK_R39I",
+            "placeName": "Kęty Osiedle",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.875879,
+            "longitude": 19.22397,
+            "localX": -347.01568603515627,
+            "localZ": 1776.281005859375
+        },
+        {
+            "placeId": "ChIJTwQfOfKbFkcRogajs3doMww",
+            "placeName": "Pierożek - domowe obiady, pierogi i wyroby garmażeryjne",
+            "category": "Inne",
+            "rating": 4.599999904632568,
+            "latitude": 49.8758886,
+            "longitude": 19.2224493,
+            "localX": -456.1465148925781,
+            "localZ": 1777.3421630859375
+        },
+        {
+            "placeId": "ChIJjViW4bKbFkcRF-r_G8pftR8",
+            "placeName": "Żabka | Prosto z pieca",
+            "category": "Sklep",
+            "rating": 4.400000095367432,
+            "latitude": 49.875895,
+            "longitude": 19.2225586,
+            "localX": -448.3027648925781,
+            "localZ": 1778.0496826171875
+        },
+        {
+            "placeId": "ChIJE8VrR6mbFkcRtsjSg04HCJ0",
+            "placeName": "Piekarnia chleb z Porąbki",
+            "category": "Gastro",
+            "rating": 4.199999809265137,
+            "latitude": 49.8759032,
+            "longitude": 19.2226493,
+            "localX": -441.7937927246094,
+            "localZ": 1778.9560546875
+        },
+        {
+            "placeId": "ChIJk6RCvpubFkcRCAcg5gIO7B0",
+            "placeName": "AUTOMAT DHL BOX 24/7",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8759102,
+            "longitude": 19.22240129999999,
+            "localX": -459.5911560058594,
+            "localZ": 1779.7298583984375
+        },
+        {
+            "placeId": "ChIJhWU4kFWbFkcRLjYCxgXCrro",
+            "placeName": "DPD Pickup",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.87594199999999,
+            "longitude": 19.222599,
+            "localX": -445.40350341796877,
+            "localZ": 1783.2449951171875
+        },
+        {
+            "placeId": "ChIJ6d5Bw12bFkcRth-cgl5qINM",
+            "placeName": "Geotechnika, badania geologiczne, Geosond- Sordyl",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8762404,
+            "longitude": 19.2263825,
+            "localX": -173.8861083984375,
+            "localZ": 1816.230224609375
+        },
+        {
+            "placeId": "ChIJ7SJ8QCSaFkcRkRnvVoQisfE",
+            "placeName": "Profi. ZPHU. Nycz Z.",
+            "category": "Inne",
+            "rating": 2.299999952316284,
+            "latitude": 49.8762443,
+            "longitude": 19.2222095,
+            "localX": -473.35540771484377,
+            "localZ": 1816.6612548828125
+        },
+        {
+            "placeId": "ChIJDx07aySaFkcRqYSHo2jeJsU",
+            "placeName": "Styl Salon Krawiecki",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8766237,
+            "longitude": 19.2225196,
+            "localX": -451.1015319824219,
+            "localZ": 1858.6002197265625
+        },
+        {
+            "placeId": "ChIJueFfeySaFkcRY895VOlhmgo",
+            "placeName": "Gemini. Farby, lakiery",
+            "category": "Inne",
+            "rating": 4.300000190734863,
+            "latitude": 49.87679499999999,
+            "longitude": 19.224199,
+            "localX": -330.5818176269531,
+            "localZ": 1877.53564453125
+        },
+        {
+            "placeId": "ChIJZw6tZCSaFkcRyRgJHBGHjsE",
+            "placeName": "Kęty Osiedle",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.876809,
+            "longitude": 19.224008,
+            "localX": -344.2886657714844,
+            "localZ": 1879.083251953125
+        },
+        {
+            "placeId": "ChIJ85XeESSaFkcRz-ZkmvqL55s",
+            "placeName": "Mircom Computers",
+            "category": "Inne",
+            "rating": 4.800000190734863,
+            "latitude": 49.8773758,
+            "longitude": 19.2219256,
+            "localX": -493.7290954589844,
+            "localZ": 1941.7373046875
+        },
+        {
+            "placeId": "ChIJvTuFBSSaFkcRmXzRUJ5tH-E",
+            "placeName": "HACZEK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIAL",
+            "category": "Inne",
+            "rating": 4.599999904632568,
+            "latitude": 49.8773758,
+            "longitude": 19.2219256,
+            "localX": -493.7290954589844,
+            "localZ": 1941.7373046875
+        },
+        {
+            "placeId": "ChIJyy98nU2bFkcROw0Yp0v_4eM",
+            "placeName": "Alsen",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8773967,
+            "longitude": 19.2219752,
+            "localX": -490.16961669921877,
+            "localZ": 1944.047607421875
+        },
+        {
+            "placeId": "ChIJgYJu5HabFkcRRg5AZFwS9qI",
+            "placeName": "Paczkomat InPost",
+            "category": "Inne",
+            "rating": 4.900000095367432,
+            "latitude": 49.87766369999999,
+            "longitude": 19.22247819999999,
+            "localX": -454.0725402832031,
+            "localZ": 1973.561767578125
+        },
+        {
+            "placeId": "ChIJUbrl9SOaFkcR8wsjvY1xM-0",
+            "placeName": "Parking",
+            "category": "Parking",
+            "rating": 5.0,
+            "latitude": 49.87774599999999,
+            "longitude": 19.2227911,
+            "localX": -431.61773681640627,
+            "localZ": 1982.6591796875
+        },
+        {
+            "placeId": "ChIJhTNnjCOaFkcRojTsyEIfwik",
+            "placeName": "Filar. Firma remontowa. Gałgan R.",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8778796,
+            "longitude": 19.2242288,
+            "localX": -328.4432678222656,
+            "localZ": 1997.4273681640625
+        },
+        {
+            "placeId": "ChIJxeMvX1ybFkcR0cLdlRmJIjc",
+            "placeName": "Pracownia Optyczna",
+            "category": "Inne",
+            "rating": 4.800000190734863,
+            "latitude": 49.8779262,
+            "longitude": 19.221783,
+            "localX": -503.96258544921877,
+            "localZ": 2002.5784912109375
+        },
+        {
+            "placeId": "ChIJvbYDlZibFkcRXDf4BzJr0ks",
+            "placeName": "DPD Pickup",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.87801,
+            "longitude": 19.2226,
+            "localX": -445.3317565917969,
+            "localZ": 2011.841796875
+        },
+        {
+            "placeId": "ChIJI33DhCGaFkcRpvoKCEtwPUc",
+            "placeName": "Lidl",
+            "category": "Sklep",
+            "rating": 4.199999809265137,
+            "latitude": 49.87807,
+            "longitude": 19.22342,
+            "localX": -386.4856262207031,
+            "localZ": 2018.47412109375
+        },
+        {
+            "placeId": "ChIJ7WeJ8yOaFkcRrlXkBRZ7CI8",
+            "placeName": "Stacja ładowania Elocity",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8782225,
+            "longitude": 19.2232173,
+            "localX": -401.0321044921875,
+            "localZ": 2035.33154296875
+        },
+        {
+            "placeId": "ChIJi0AI1yaaFkcR_IHKh4u_Irc",
+            "placeName": "Lidl Charging Station",
+            "category": "Sklep",
+            "rating": 4.0,
+            "latitude": 49.8782272,
+            "longitude": 19.2232322,
+            "localX": -399.96282958984377,
+            "localZ": 2035.85107421875
+        },
+        {
+            "placeId": "ChIJJznlqCKbFkcR06dPoXOi0Iw",
+            "placeName": "Mobilne Studio Kosmetyczne",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.87839220000001,
+            "longitude": 19.2236619,
+            "localX": -369.12603759765627,
+            "localZ": 2054.090087890625
+        },
+        {
+            "placeId": "ChIJB8jE7COaFkcRF7maL_9c6wc",
+            "placeName": "Trendy Hair Eco Salon Fryzjerski Fryzjer Kęty",
+            "category": "Inne",
+            "rating": 4.599999904632568,
+            "latitude": 49.87842119999999,
+            "longitude": 19.2236285,
+            "localX": -371.5229187011719,
+            "localZ": 2057.2958984375
+        },
+        {
+            "placeId": "ChIJmQ-bAyWbFkcRMhOJGrX8Mxs",
+            "placeName": "Kapliczka Matki Bożej Fatimskiej",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8785982,
+            "longitude": 19.2232015,
+            "localX": -402.1659851074219,
+            "localZ": 2076.861328125
+        },
+        {
+            "placeId": "ChIJT9BG9c-bFkcRdfnoEv8ZlLA",
+            "placeName": "PERMANENT MAKE UP ARTIST ILONA KOBIELUS",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8788993,
+            "longitude": 19.2214956,
+            "localX": -524.58740234375,
+            "localZ": 2110.14501953125
+        },
+        {
+            "placeId": "ChIJMz4XKgCbFkcRcC3RNuwjlL0",
+            "placeName": "Pracownia Fryzjerska Kemon",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8789151,
+            "longitude": 19.2215608,
+            "localX": -519.908447265625,
+            "localZ": 2111.8916015625
+        },
+        {
+            "placeId": "ChIJ786X4COaFkcR4MviFd6Tr8U",
+            "placeName": "Rozumek.NET - Strony i sklepy internetowe, grafika i marketing",
+            "category": "Sklep",
+            "rating": 5.0,
+            "latitude": 49.87901600000001,
+            "longitude": 19.222518,
+            "localX": -451.21636962890627,
+            "localZ": 2123.044921875
+        },
+        {
+            "placeId": "ChIJc_G3i7qbFkcR6nJRiK8_aZY",
+            "placeName": "Karate Kyokushin-kan Kęty",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.87986,
+            "longitude": 19.2238379,
+            "localX": -356.4956359863281,
+            "localZ": 2216.3408203125
+        },
+        {
+            "placeId": "ChIJ7xXV1Z2bFkcR-Yw07eak8IY",
+            "placeName": "Tłumacz Przysięgły UA",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.87988749999999,
+            "longitude": 19.2238063,
+            "localX": -358.76336669921877,
+            "localZ": 2219.380615234375
+        },
+        {
+            "placeId": "ChIJM3ck0iOaFkcRXkpAq-FV0X4",
+            "placeName": "Liceum Ogólnokształcące dla Dorosłych",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8799025,
+            "longitude": 19.2236134,
+            "localX": -372.6065673828125,
+            "localZ": 2221.038818359375
+        },
+        {
+            "placeId": "ChIJM3ck0iOaFkcRszHdq84epEc",
+            "placeName": "Liceum Profilowane nr I",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8799025,
+            "longitude": 19.2236134,
+            "localX": -372.6065673828125,
+            "localZ": 2221.038818359375
+        },
+        {
+            "placeId": "ChIJM3ck0iOaFkcRxCWawHolFhw",
+            "placeName": "Powiatowy Zespół Szkół nr 9 im. M. Dąbrowskiej",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8799025,
+            "longitude": 19.2236134,
+            "localX": -372.6065673828125,
+            "localZ": 2221.038818359375
+        },
+        {
+            "placeId": "ChIJO8f1fiGaFkcRxG9_l3XY2JU",
+            "placeName": "Zielińska Urszula, lek. med. Spec. pediatra i neonatolog. Gabinet",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88013249999999,
+            "longitude": 19.2226912,
+            "localX": -438.78692626953127,
+            "localZ": 2246.462890625
+        },
+        {
+            "placeId": "ChIJI33DhCGaFkcR7qcrZIZB2HY",
+            "placeName": "Salon Meblowy Black Red White oraz Studio Kuchni Meblux",
+            "category": "Inne",
+            "rating": 4.300000190734863,
+            "latitude": 49.8805798,
+            "longitude": 19.22132269999999,
+            "localX": -536.995361328125,
+            "localZ": 2295.907470703125
+        },
+        {
+            "placeId": "ChIJXYdUAyWaFkcRg0YSnpaMq8U",
+            "placeName": "ItalTrans PPHU",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8805999,
+            "longitude": 19.2233414,
+            "localX": -392.1262512207031,
+            "localZ": 2298.12939453125
+        },
+        {
+            "placeId": "ChIJp0vbhCGaFkcRj-a-X4_wMS0",
+            "placeName": "Lili Instytut Kosmetyki i Medycyny Estetycznej",
+            "category": "Inne",
+            "rating": 4.800000190734863,
+            "latitude": 49.88068,
+            "longitude": 19.2217063,
+            "localX": -509.4668273925781,
+            "localZ": 2306.983642578125
+        },
+        {
+            "placeId": "ChIJoZG5e4mZFkcREZE5rMWhbrQ",
+            "placeName": "Kęty",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88072990000001,
+            "longitude": 19.2228003,
+            "localX": -430.95751953125,
+            "localZ": 2312.49951171875
+        },
+        {
+            "placeId": "ChIJkciEmyGaFkcR2UBkebZo1PQ",
+            "placeName": "Greenpoint & Top Secret",
+            "category": "Inne",
+            "rating": 4.5,
+            "latitude": 49.8807647,
+            "longitude": 19.2224911,
+            "localX": -453.14678955078127,
+            "localZ": 2316.34619140625
+        },
+        {
+            "placeId": "ChIJB6zoukObFkcRJql2SZ3TNSg",
+            "placeName": "Moodo",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8807647,
+            "longitude": 19.2224911,
+            "localX": -453.14678955078127,
+            "localZ": 2316.34619140625
+        },
+        {
+            "placeId": "ChIJI-P7dSGaFkcR6AXj0v6IJZI",
+            "placeName": "Diverse",
+            "category": "Inne",
+            "rating": 4.400000095367432,
+            "latitude": 49.8807647,
+            "longitude": 19.222491,
+            "localX": -453.1539611816406,
+            "localZ": 2316.34619140625
+        },
+        {
+            "placeId": "ChIJp0vbhCGaFkcRSe3JXX_pbRs",
+            "placeName": "Park Kościuszki Kęty",
+            "category": "Inne",
+            "rating": 4.400000095367432,
+            "latitude": 49.8807647,
+            "longitude": 19.2224911,
+            "localX": -453.14678955078127,
+            "localZ": 2316.34619140625
+        },
+        {
+            "placeId": "ChIJETptLQCbFkcRMeP3mgk3FBM",
+            "placeName": "Nastawnia Ky Kęty",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8807682,
+            "longitude": 19.2254982,
+            "localX": -237.34661865234376,
+            "localZ": 2316.733154296875
+        },
+        {
+            "placeId": "ChIJHS7Nt1KbFkcRmokHDE4PaMI",
+            "placeName": "Edward Lumpoo Multibrand Boutique",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88077699999999,
+            "longitude": 19.2224679,
+            "localX": -454.81170654296877,
+            "localZ": 2317.7060546875
+        },
+        {
+            "placeId": "ChIJX3hihCGaFkcR94v8YU61VBk",
+            "placeName": "5.10.15.",
+            "category": "Inne",
+            "rating": 4.300000190734863,
+            "latitude": 49.88079450000001,
+            "longitude": 19.2219276,
+            "localX": -493.5855712890625,
+            "localZ": 2319.640380859375
+        },
+        {
+            "placeId": "ChIJB6TAJSKaFkcRrsOhtXobUGk",
+            "placeName": "Szklarczyk Adam, lek. med. inetrnista",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8808,
+            "longitude": 19.2248952,
+            "localX": -280.6200256347656,
+            "localZ": 2320.248291015625
+        },
+        {
+            "placeId": "ChIJ4WY9QSKaFkcRpDMul2U7x4A",
+            "placeName": "Kęty",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88080480000001,
+            "longitude": 19.2256147,
+            "localX": -228.9861602783203,
+            "localZ": 2320.779052734375
+        },
+        {
+            "placeId": "ChIJB6TAJSKaFkcRVaBgGVKUh9E",
+            "placeName": "Esculap. NZOZ",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8808088,
+            "longitude": 19.2241083,
+            "localX": -337.0907897949219,
+            "localZ": 2321.22119140625
+        },
+        {
+            "placeId": "ChIJv-MnaTWbFkcRHhm8weo7Cko",
+            "placeName": "Dworzec kolejowy",
+            "category": "Inne",
+            "rating": 3.799999952316284,
+            "latitude": 49.8808307,
+            "longitude": 19.2255713,
+            "localX": -232.10069274902345,
+            "localZ": 2323.641845703125
+        },
+        {
+            "placeId": "ChIJX3hihCGaFkcRP2i_RpZFI3s",
+            "placeName": "4F",
+            "category": "Inne",
+            "rating": 4.599999904632568,
+            "latitude": 49.8808425,
+            "longitude": 19.2224187,
+            "localX": -458.34246826171877,
+            "localZ": 2324.9462890625
+        },
+        {
+            "placeId": "ChIJp0vbhCGaFkcRrfSsuIO3SE4",
+            "placeName": "Ice Spot",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8808479,
+            "longitude": 19.2225425,
+            "localX": -449.4581604003906,
+            "localZ": 2325.543212890625
+        },
+        {
+            "placeId": "ChIJbWVa9mSbFkcRq9LmBgA3cZE",
+            "placeName": "Quick 24H",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.88089139999999,
+            "longitude": 19.2230162,
+            "localX": -415.4637451171875,
+            "localZ": 2330.351806640625
+        },
+        {
+            "placeId": "ChIJz0BidACbFkcRBPiYcjjCFk0",
+            "placeName": "Sklep rowerowy naprawa i serwis",
+            "category": "Sklep",
+            "rating": 4.699999809265137,
+            "latitude": 49.8809335,
+            "longitude": 19.2234121,
+            "localX": -387.05255126953127,
+            "localZ": 2335.00537109375
+        },
+        {
+            "placeId": "ChIJiRStrJebFkcRJHMOc_G9LnQ",
+            "placeName": "Parking",
+            "category": "Parking",
+            "rating": 5.0,
+            "latitude": 49.8809398,
+            "longitude": 19.2258509,
+            "localX": -212.03561401367188,
+            "localZ": 2335.701904296875
+        },
+        {
+            "placeId": "ChIJo47kqiWbFkcRqSx-tNjszWY",
+            "placeName": "ROWER MIX",
+            "category": "Inne",
+            "rating": 4.900000095367432,
+            "latitude": 49.8809414,
+            "longitude": 19.2235048,
+            "localX": -380.40008544921877,
+            "localZ": 2335.878662109375
+        },
+        {
+            "placeId": "ChIJc4cdLfubFkcRqXhX1yvmyNg",
+            "placeName": "Marzena Zaręba Pomysł na Prezent Emily Art.",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8810519,
+            "longitude": 19.224897,
+            "localX": -280.4908752441406,
+            "localZ": 2348.093505859375
+        },
+        {
+            "placeId": "ChIJieUWjyGaFkcRhLFVb5j9YFI",
+            "placeName": "KRYSTAP Farby Tapety",
+            "category": "Inne",
+            "rating": 4.900000095367432,
+            "latitude": 49.8810631,
+            "longitude": 19.2228879,
+            "localX": -424.6710205078125,
+            "localZ": 2349.33154296875
+        },
+        {
+            "placeId": "ChIJBTMVjyGaFkcRJz-R0nGkuRI",
+            "placeName": "Zakład Zegarmistrzowski",
+            "category": "Inne",
+            "rating": 4.5,
+            "latitude": 49.8810648,
+            "longitude": 19.2229709,
+            "localX": -418.71466064453127,
+            "localZ": 2349.519287109375
+        },
+        {
+            "placeId": "ChIJiZ-hZyKaFkcRPqQXz-hataQ",
+            "placeName": "Kęty",
+            "category": "Inne",
+            "rating": 3.0,
+            "latitude": 49.88107,
+            "longitude": 19.22681,
+            "localX": -143.20718383789063,
+            "localZ": 2350.09423828125
+        },
+        {
+            "placeId": "ChIJy374PCKaFkcROPN3O7knZrU",
+            "placeName": "Zaręba Małgorzata. Sklep ogrodniczy",
+            "category": "Sklep",
+            "rating": 4.699999809265137,
+            "latitude": 49.8810783,
+            "longitude": 19.2249431,
+            "localX": -277.18255615234377,
+            "localZ": 2351.01171875
+        },
+        {
+            "placeId": "ChIJy374PCKaFkcRV3XkLrhzsSg",
+            "placeName": "Agro-Mot. PH. Niedziela M.",
+            "category": "Inne",
+            "rating": 4.599999904632568,
+            "latitude": 49.8810783,
+            "longitude": 19.2249431,
+            "localX": -277.18255615234377,
+            "localZ": 2351.01171875
+        },
+        {
+            "placeId": "ChIJ35NvkCGaFkcRJk6KZoew1kA",
+            "placeName": "Dom Maklerski BZ WBK S.A. Punkt obsługi",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88111680000001,
+            "longitude": 19.22247270000001,
+            "localX": -454.4672546386719,
+            "localZ": 2355.267333984375
+        },
+        {
+            "placeId": "ChIJgWi25n2bFkcRj3YczVk53TQ",
+            "placeName": "Apteka Nowe Remedium",
+            "category": "Apteka",
+            "rating": 4.300000190734863,
+            "latitude": 49.8812673,
+            "longitude": 19.2260591,
+            "localX": -197.0944366455078,
+            "localZ": 2371.90380859375
+        },
+        {
+            "placeId": "ChIJ0Vx3ccebFkcR-kbg4o9W208",
+            "placeName": "Punkt Pobrań ALAB laboratoria",
+            "category": "Inne",
+            "rating": 4.900000095367432,
+            "latitude": 49.8812685,
+            "longitude": 19.2261499,
+            "localX": -190.57830810546876,
+            "localZ": 2372.036376953125
+        },
+        {
+            "placeId": "ChIJTYynHSCaFkcRtt1wfHePSxA",
+            "placeName": "BlueMed",
+            "category": "Inne",
+            "rating": 4.300000190734863,
+            "latitude": 49.8812872,
+            "longitude": 19.2261166,
+            "localX": -192.96803283691407,
+            "localZ": 2374.103515625
+        },
+        {
+            "placeId": "ChIJ0eDvOyKaFkcRPqxM61fAcx0",
+            "placeName": "Gabinet USG lek. med. Katarzyna Wróbel-Lis, lek. med. Agnieszka Wietrzny",
+            "category": "Inne",
+            "rating": 4.300000190734863,
+            "latitude": 49.8813202,
+            "longitude": 19.225985,
+            "localX": -202.41212463378907,
+            "localZ": 2377.751220703125
+        },
+        {
+            "placeId": "ChIJ876mhVCbFkcRAI_ed7E_I7A",
+            "placeName": "Parking",
+            "category": "Parking",
+            "rating": 4.699999809265137,
+            "latitude": 49.8813256,
+            "longitude": 19.2267238,
+            "localX": -149.39320373535157,
+            "localZ": 2378.34814453125
+        },
+        {
+            "placeId": "ChIJBWppZiKaFkcRcTH0EhvClQM",
+            "placeName": "HIPOKRATES S.Królicki - J.Ślifirski spółka jawna",
+            "category": "Inne",
+            "rating": 2.700000047683716,
+            "latitude": 49.8813317,
+            "longitude": 19.2261604,
+            "localX": -189.8247833251953,
+            "localZ": 2379.0224609375
+        },
+        {
+            "placeId": "ChIJ3ReRayKaFkcRjE_yP-bxBD0",
+            "placeName": "Marek Trafiał Prywatny Gabinet Stomatologiczny Lek Stom",
+            "category": "Inne",
+            "rating": 4.400000095367432,
+            "latitude": 49.881377,
+            "longitude": 19.2261351,
+            "localX": -191.64041137695313,
+            "localZ": 2384.030029296875
+        },
+        {
+            "placeId": "ChIJBWppZiKaFkcRNgQ1JBiRBVA",
+            "placeName": "Karasiński Piotr, lek. med. dermatolog, wenerolog",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8813801,
+            "longitude": 19.2260863,
+            "localX": -195.14247131347657,
+            "localZ": 2384.37255859375
+        },
+        {
+            "placeId": "ChIJ_RCgOTubFkcRJcenWj3qFD0",
+            "placeName": "DietaMedical Jolanta Pindel",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8813801,
+            "longitude": 19.2260863,
+            "localX": -195.14247131347657,
+            "localZ": 2384.37255859375
+        },
+        {
+            "placeId": "ChIJkT1akiGaFkcRkO6hj1zl5LM",
+            "placeName": "Sklep zoologiczny Skalar",
+            "category": "Sklep",
+            "rating": 4.699999809265137,
+            "latitude": 49.8814258,
+            "longitude": 19.2226693,
+            "localX": -440.3585205078125,
+            "localZ": 2389.42431640625
+        },
+        {
+            "placeId": "ChIJvyo_IKObFkcRDJDLiL8XlY0",
+            "placeName": "Butik Pasja Boutique Kęty",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8814581,
+            "longitude": 19.2227329,
+            "localX": -435.79437255859377,
+            "localZ": 2392.99462890625
+        },
+        {
+            "placeId": "ChIJteMn2cKbFkcRArnP6zrhzKM",
+            "placeName": "plus Size",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8814741,
+            "longitude": 19.2226451,
+            "localX": -442.09521484375,
+            "localZ": 2394.763427734375
+        },
+        {
+            "placeId": "ChIJTdqACZqbFkcR3kyYzTa0rc4",
+            "placeName": "Tłumacz Przysięgły Czeski",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8815168,
+            "longitude": 19.2240444,
+            "localX": -341.6764831542969,
+            "localZ": 2399.4833984375
+        },
+        {
+            "placeId": "ChIJKauO1SOaFkcRjQ4A_7NBBMI",
+            "placeName": "Lewiatan",
+            "category": "Sklep",
+            "rating": 3.9000000953674318,
+            "latitude": 49.8815746,
+            "longitude": 19.2227688,
+            "localX": -433.2180480957031,
+            "localZ": 2405.87255859375
+        },
+        {
+            "placeId": "ChIJi3wt-uybFkcRxiXjZ9uzytE",
+            "placeName": "Odzieżowy Kącik",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8816483,
+            "longitude": 19.223062,
+            "localX": -412.1769714355469,
+            "localZ": 2414.01953125
+        },
+        {
+            "placeId": "ChIJEzjtMSCaFkcRf7O8KkijJXA",
+            "placeName": "Microtech- serwis komputerowy, sklep, ksero, wydruki, laptopy poleasingowe z gwarancją",
+            "category": "Sklep",
+            "rating": 4.900000095367432,
+            "latitude": 49.8816706,
+            "longitude": 19.2229872,
+            "localX": -417.5448913574219,
+            "localZ": 2416.484375
+        },
+        {
+            "placeId": "ChIJS2KJ8iqbFkcRQQrx9c7iqxE",
+            "placeName": "P&M Elektro-Tech",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8816772,
+            "longitude": 19.2277987,
+            "localX": -72.25456237792969,
+            "localZ": 2417.214111328125
+        },
+        {
+            "placeId": "ChIJN3rXGyKaFkcR5YbxxpvYtsY",
+            "placeName": "Supradent Centrum Stomatologii",
+            "category": "Inne",
+            "rating": 4.800000190734863,
+            "latitude": 49.8816879,
+            "longitude": 19.2247269,
+            "localX": -292.6978454589844,
+            "localZ": 2418.396728515625
+        },
+        {
+            "placeId": "ChIJJRJNfCKaFkcR09dTIum67f4",
+            "placeName": "Sużyw Salon Kawy i Wina Kęty",
+            "category": "Inne",
+            "rating": 4.5,
+            "latitude": 49.88170100000001,
+            "longitude": 19.227759,
+            "localX": -75.10356903076172,
+            "localZ": 2419.844970703125
+        },
+        {
+            "placeId": "ChIJM489fCKaFkcRLHRWLkQNvow",
+            "placeName": "Elkent-System Przedsiębiorstwo techniczno - handlowe Instalacje elektryczne Alarmy",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88170340000001,
+            "longitude": 19.2278633,
+            "localX": -67.61863708496094,
+            "localZ": 2420.110107421875
+        },
+        {
+            "placeId": "ChIJM489fCKaFkcRnkQoaao5fFI",
+            "placeName": "Notariusz Justyna Kubiczek",
+            "category": "Inne",
+            "rating": 4.800000190734863,
+            "latitude": 49.8817214,
+            "longitude": 19.2278423,
+            "localX": -69.12567138671875,
+            "localZ": 2422.099853515625
+        },
+        {
+            "placeId": "ChIJzSFEnSKaFkcRFHnTmw9tI7M",
+            "placeName": "Kęty D.a.",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88184399999999,
+            "longitude": 19.22868,
+            "localX": -9.009339332580567,
+            "localZ": 2435.652099609375
+        },
+        {
+            "placeId": "ChIJOxNFnSKaFkcRrMTjsyeFyys",
+            "placeName": "Kęty D.A.",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.881857,
+            "longitude": 19.22919,
+            "localX": 27.590072631835939,
+            "localZ": 2437.089111328125
+        },
+        {
+            "placeId": "ChIJwWdakiGaFkcRPYOgQT2E9ZU",
+            "placeName": "ING",
+            "category": "Inne",
+            "rating": 3.0,
+            "latitude": 49.8818587,
+            "longitude": 19.22263239999999,
+            "localX": -443.0066223144531,
+            "localZ": 2437.277099609375
+        },
+        {
+            "placeId": "ChIJVzzZl_ebFkcRV1lcaXBZD6k",
+            "placeName": "Paczkomat InPost",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.8818786,
+            "longitude": 19.2282563,
+            "localX": -39.415557861328128,
+            "localZ": 2439.476806640625
+        },
+        {
+            "placeId": "ChIJIR5-7CGaFkcRbreoB9rZxu8",
+            "placeName": "Piekarnia Cafe Piskorek - Kęty, ul. Kościuszki",
+            "category": "Gastro",
+            "rating": 4.699999809265137,
+            "latitude": 49.8819068,
+            "longitude": 19.2226482,
+            "localX": -441.87274169921877,
+            "localZ": 2442.593994140625
+        },
+        {
+            "placeId": "ChIJB2WAgCKaFkcRE2mvNiMs080",
+            "placeName": "Stacja ładowania GreenWay",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88190909999999,
+            "longitude": 19.2281782,
+            "localX": -45.02029037475586,
+            "localZ": 2442.848388671875
+        },
+        {
+            "placeId": "ChIJFfSHfyGaFkcRo2IAlIy_YVU",
+            "placeName": "ING Bank Śląski placówka bankowa w Kętach",
+            "category": "Inne",
+            "rating": 4.800000190734863,
+            "latitude": 49.8819476,
+            "longitude": 19.2227443,
+            "localX": -434.97625732421877,
+            "localZ": 2447.10400390625
+        },
+        {
+            "placeId": "ChIJHzdv7iGaFkcRkeAKCa7jHfQ",
+            "placeName": "Play",
+            "category": "Inne",
+            "rating": 4.400000095367432,
+            "latitude": 49.88197770000001,
+            "longitude": 19.2225812,
+            "localX": -446.680908203125,
+            "localZ": 2450.431396484375
+        },
+        {
+            "placeId": "ChIJ25Mwav2bFkcR0Jv_Nbkr2kA",
+            "placeName": "BUDCHEM Płytki Panele Drzwi Okna Podłogi Farby Wyposażenie wnętrz",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8819845,
+            "longitude": 19.2232602,
+            "localX": -397.9534606933594,
+            "localZ": 2451.18310546875
+        },
+        {
+            "placeId": "ChIJa2JBexiaFkcRn_xmgCmMHNg",
+            "placeName": "Stacja Paliw \"MIXPOL\"",
+            "category": "Stacja",
+            "rating": 4.599999904632568,
+            "latitude": 49.88215229999999,
+            "longitude": 19.2286199,
+            "localX": -13.3223295211792,
+            "localZ": 2469.731689453125
+        },
+        {
+            "placeId": "ChIJMUE7dESbFkcRxph6iCLWHPc",
+            "placeName": "Beskid Media",
+            "category": "Inne",
+            "rating": 3.9000000953674318,
+            "latitude": 49.8822539,
+            "longitude": 19.2295685,
+            "localX": 54.75257873535156,
+            "localZ": 2480.96240234375
+        },
+        {
+            "placeId": "ChIJ03R8CDSbFkcRpB8zjSY-1-o",
+            "placeName": "Top Sklepy",
+            "category": "Sklep",
+            "rating": 4.0,
+            "latitude": 49.88227329999999,
+            "longitude": 19.2296604,
+            "localX": 61.34764862060547,
+            "localZ": 2483.10693359375
+        },
+        {
+            "placeId": "ChIJ0eDvOyKaFkcRAv9TSXyD1H0",
+            "placeName": "Dorian FitnessClub",
+            "category": "Sport",
+            "rating": 4.800000190734863,
+            "latitude": 49.8822897,
+            "longitude": 19.2297736,
+            "localX": 69.47128295898438,
+            "localZ": 2484.919921875
+        },
+        {
+            "placeId": "ChIJ3akfcRiaFkcRSZStVAAQG24",
+            "placeName": "Fabryka Tlenu",
+            "category": "Sport",
+            "rating": 4.199999809265137,
+            "latitude": 49.8823038,
+            "longitude": 19.2297435,
+            "localX": 67.31120300292969,
+            "localZ": 2486.478515625
+        },
+        {
+            "placeId": "ChIJR58SXACbFkcR7lJrfcvXqLs",
+            "placeName": "Towaroteka Biedronki",
+            "category": "Inne",
+            "rating": 1.7000000476837159,
+            "latitude": 49.8825819,
+            "longitude": 19.2287236,
+            "localX": -5.880448818206787,
+            "localZ": 2517.219482421875
+        },
+        {
+            "placeId": "ChIJe0-mixiaFkcRjui6flMDDmM",
+            "placeName": "Biedronka",
+            "category": "Sklep",
+            "rating": 3.9000000953674318,
+            "latitude": 49.8826504,
+            "longitude": 19.2288185,
+            "localX": 0.9299126863479614,
+            "localZ": 2524.79150390625
+        },
+        {
+            "placeId": "ChIJxzp95C2bFkcRivz-o51dBa4",
+            "placeName": "ORLEN Paczka",
+            "category": "Stacja",
+            "rating": 4.199999809265137,
+            "latitude": 49.88266,
+            "longitude": 19.228565,
+            "localX": -17.262147903442384,
+            "localZ": 2525.852783203125
+        },
+        {
+            "placeId": "ChIJgUx6hBiaFkcR4qoOLA7yX3Y",
+            "placeName": "Bilczewska Grażyna, lek. med. internista. Gabinet",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8828076,
+            "longitude": 19.2275261,
+            "localX": -91.81730651855469,
+            "localZ": 2542.16845703125
+        },
+        {
+            "placeId": "ChIJRZDA3BubFkcRGx8KtBo67WQ",
+            "placeName": "Euronet. Bankomat",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88283500000001,
+            "longitude": 19.228692,
+            "localX": -8.148177146911621,
+            "localZ": 2545.197265625
+        },
+        {
+            "placeId": "ChIJm2hadZvOjCMRZRygXVWAyQo",
+            "placeName": "Akademia Jiu-Jitsu Kimura",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8828429,
+            "longitude": 19.2281574,
+            "localX": -46.51297378540039,
+            "localZ": 2546.070556640625
+        },
+        {
+            "placeId": "ChIJf3W0S12bFkcRwuFF9OGbnrY",
+            "placeName": "Parking",
+            "category": "Parking",
+            "rating": 4.199999809265137,
+            "latitude": 49.88286879999999,
+            "longitude": 19.2291677,
+            "localX": 25.98974609375,
+            "localZ": 2548.93359375
+        },
+        {
+            "placeId": "ChIJM1aklEKbFkcRTaoA4h8rOV4",
+            "placeName": "AUTOMAT DHL BOX 24/7",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88306439999999,
+            "longitude": 19.2287089,
+            "localX": -6.935372829437256,
+            "localZ": 2570.55517578125
+        },
+        {
+            "placeId": "ChIJwd59XqSbFkcRoHduNqTB3Oc",
+            "placeName": "Sklep CIAO",
+            "category": "Sklep",
+            "rating": 4.199999809265137,
+            "latitude": 49.8832907,
+            "longitude": 19.2313478,
+            "localX": 182.44146728515626,
+            "localZ": 2595.5703125
+        },
+        {
+            "placeId": "ChIJiwJYLmKbFkcR8WTYRw112qY",
+            "placeName": "Tixewash",
+            "category": "Inne",
+            "rating": 3.0,
+            "latitude": 49.88336390000001,
+            "longitude": 19.2304335,
+            "localX": 116.82804870605469,
+            "localZ": 2603.661865234375
+        },
+        {
+            "placeId": "ChIJnWNFsf6bFkcRN89ISHvHhDI",
+            "placeName": "Kebab u Pajdy Kęty",
+            "category": "Gastro",
+            "rating": 3.799999952316284,
+            "latitude": 49.8834314,
+            "longitude": 19.2304965,
+            "localX": 121.34915924072266,
+            "localZ": 2611.123291015625
+        },
+        {
+            "placeId": "ChIJsa0Ee4qbFkcRxE1PHG6ykyw",
+            "placeName": "Myjnia samochodowa",
+            "category": "Inne",
+            "rating": 4.300000190734863,
+            "latitude": 49.8834519,
+            "longitude": 19.230468,
+            "localX": 119.30389404296875,
+            "localZ": 2613.389404296875
+        },
+        {
+            "placeId": "ChIJH-zw8xiaFkcRjYNVABNBxS8",
+            "placeName": "Domek na Krakowskiej",
+            "category": "Nocleg",
+            "rating": 4.199999809265137,
+            "latitude": 49.8835831,
+            "longitude": 19.2288131,
+            "localX": 0.5423895120620728,
+            "localZ": 2627.892333984375
+        },
+        {
+            "placeId": "ChIJx1kgMRiaFkcRrvGiRLDEtb8",
+            "placeName": "Dako",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8836426,
+            "longitude": 19.2319117,
+            "localX": 222.908935546875,
+            "localZ": 2634.469482421875
+        },
+        {
+            "placeId": "ChIJa8S7WhiaFkcRRFnBbz1Vmrk",
+            "placeName": "Kęty Potrzask",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.883648,
+            "longitude": 19.230305,
+            "localX": 107.60643768310547,
+            "localZ": 2635.066162109375
+        },
+        {
+            "placeId": "ChIJGR3oSBiaFkcRKwE0PCUXTSw",
+            "placeName": "Kęty Potrzask",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88370099999999,
+            "longitude": 19.231046,
+            "localX": 160.78323364257813,
+            "localZ": 2640.9248046875
+        },
+        {
+            "placeId": "ChIJMR7xwfSFFkcRSBE-nDfV_sA",
+            "placeName": "Ekoo.pl Internetowe Centrum Handlowe",
+            "category": "Inne",
+            "rating": 4.900000095367432,
+            "latitude": 49.8837526,
+            "longitude": 19.2315541,
+            "localX": 197.2462921142578,
+            "localZ": 2646.628662109375
+        },
+        {
+            "placeId": "ChIJw_7VTGmbFkcROAjixY7L-KQ",
+            "placeName": "Punkt GLS",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.883783,
+            "longitude": 19.2289441,
+            "localX": 9.943414688110352,
+            "localZ": 2649.9892578125
+        },
+        {
+            "placeId": "ChIJMzwSuCCbFkcRzYbfYSqY2wQ",
+            "placeName": "Delikatesy Bingo",
+            "category": "Sklep",
+            "rating": 5.0,
+            "latitude": 49.8838076,
+            "longitude": 19.2289097,
+            "localX": 7.474748611450195,
+            "localZ": 2652.70849609375
+        },
+        {
+            "placeId": "ChIJ7_aXg1WbFkcRb-GiIpJ--iU",
+            "placeName": "NZOZ REHA-MED filia KĘTY",
+            "category": "Inne",
+            "rating": 5.0,
+            "latitude": 49.883813,
+            "longitude": 19.231269,
+            "localX": 176.7864990234375,
+            "localZ": 2653.305419921875
+        },
+        {
+            "placeId": "ChIJS5x80tWbFkcRF1pIQc6Ja1s",
+            "placeName": "Dieta i My Marta Tobiczyk",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.883813,
+            "longitude": 19.231269,
+            "localX": 176.7864990234375,
+            "localZ": 2653.305419921875
+        },
+        {
+            "placeId": "ChIJLwiUTtKbFkcROpZD5WivgvA",
+            "placeName": "Gabinet USG lek. med. Zbigniew Piątkiewicz - Reha Med",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.883813,
+            "longitude": 19.231269,
+            "localX": 176.7864990234375,
+            "localZ": 2653.305419921875
+        },
+        {
+            "placeId": "ChIJ96TX8BiaFkcRUqXOyXL3Vrw",
+            "placeName": "EPKO",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.88384049999999,
+            "longitude": 19.2289879,
+            "localX": 13.086658477783204,
+            "localZ": 2656.34521484375
+        },
+        {
+            "placeId": "ChIJ2_eL4VSbFkcRYtaCT7HL6n8",
+            "placeName": "AsMen Kęty",
+            "category": "Inne",
+            "rating": 4.699999809265137,
+            "latitude": 49.88406210000001,
+            "longitude": 19.2294017,
+            "localX": 42.78241729736328,
+            "localZ": 2680.8408203125
+        },
+        {
+            "placeId": "ChIJIXjP6fSbFkcRtSbx0h84p7A",
+            "placeName": "AW Optyk Borysławscy",
+            "category": "Inne",
+            "rating": 4.699999809265137,
+            "latitude": 49.8841176,
+            "longitude": 19.2283964,
+            "localX": -29.361482620239259,
+            "localZ": 2686.975830078125
+        },
+        {
+            "placeId": "ChIJOeDuMiyZFkcRDQqbKU1Yk3E",
+            "placeName": "Szperownia KRAKO59-Rowery sprzedaż i serwis, art.używane z Niemiec, Vintage.",
+            "category": "Inne",
+            "rating": 4.5,
+            "latitude": 49.8841733,
+            "longitude": 19.2314162,
+            "localX": 187.35009765625,
+            "localZ": 2693.133056640625
+        },
+        {
+            "placeId": "ChIJTyfuBRmaFkcRBEp8lNHvlcY",
+            "placeName": "Jura L. Zakład usługowo - handlowy",
+            "category": "Inne",
+            "rating": 4.199999809265137,
+            "latitude": 49.8845122,
+            "longitude": 19.229604899999999,
+            "localX": 57.36477279663086,
+            "localZ": 2730.594970703125
+        }
+    ]
+}
